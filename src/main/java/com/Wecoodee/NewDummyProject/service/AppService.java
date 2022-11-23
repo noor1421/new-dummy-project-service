@@ -28,7 +28,7 @@ public class AppService {
 
 		try {
 
-			// Validate mandatory fields
+			// Validate mandatory fields are added
 
 			ApiResponse apiResponse = validationService.validateMandaoryFields(applicationForm);
 
